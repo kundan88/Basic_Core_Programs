@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinFlipp", "CoinFlipp\CoinFlipp.csproj", "{8C697F1F-4B92-4810-A39B-C3C6A94949C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C697F1F-4B92-4810-A39B-C3C6A94949C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C697F1F-4B92-4810-A39B-C3C6A94949C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C697F1F-4B92-4810-A39B-C3C6A94949C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C697F1F-4B92-4810-A39B-C3C6A94949C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {407C8458-2934-4811-B3DD-44C984BB546C}
+	EndGlobalSection
+EndGlobal
