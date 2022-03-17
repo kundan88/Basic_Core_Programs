@@ -10,6 +10,7 @@ public class Program
         ch = Convert.ToChar(Console.ReadLine().ToLower());
         
     }
+
     public void ShowData()
     {
         int i = ch;
